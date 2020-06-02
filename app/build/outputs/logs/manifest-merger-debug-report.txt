@@ -1,0 +1,265 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:2:1-52:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/755e4c9850ea4b3901c6acb3e9318015/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/8a24f1af42ddb63ef997033dc3138fc6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/66a52efb848131bf2b49b3fe3a8ac295/AndroidManifest.xml:17:1-32:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/4ce837018eb9307b8bf43960d665a718/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/5525889af6b57a06b1cd74a216664984/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/d9616b9716f915958d7b523b50bc054c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/c4f35ccbeabf7e54271b3d03191b2808/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/f3fb541cb3caa0350345e0714c5daeb2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/189e1224c828faa3f7f3590beb12ed62/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/5ad5a33f8c770d5cdcf9663b1b086e1f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/bec37610a35d368f4c069b55a524a004/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/0aa6d914ec2d0ca86362aadb01ed5ea9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/38abf8585d6157671651f7b2643f1710/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/08c8a2478cd6b7a8c7fd8ee7c2f72ce0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/e069058d42178725003c19d276ee3feb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/657462a69ffef2f819e3723119f2ada7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/8aa0bd2ce7145a764f2a17a8792abde6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/cc48a82f040d461e0ed5fefd79dff9dc/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/6e6ccc7051558696a1b3121ac20df443/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/d5e4451e52ff6e5548e01eed2c7c4108/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/7bb2432b33cb3e17a4ff59f0035cd50f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/09509d14712262441066cc84a9aa38a2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/db00e55526699d7d435f1cfbd727852d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/8563a9b2945f30664af0ac48082124d5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/f0459d7543e17f68ec09a113bdc1fb2e/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/7e15eecf426fcf280ff5235a8322146c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/02b603ed265baa5a44d98be69c19ae92/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/65074008b666415c41092a658f7d8cd1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/a583971aa1b87e21f7013c28818d04ce/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/be647dc023a1adfddcdbf1c40c2423a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/7fabe633027870be1347c6b71c4f792a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/3637554b0965a023976614a713729804/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/e43f879f637ceff4d4f1f2c153f0c3ef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/199028c3bd3086bd788d66754b66d0bb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/e392be38c32c763f00f353f5f4a2676f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/b144de3791fc18f052b407a155681f1d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/5b4e91f8a3c8efc65a4d8c3ef3dc24e6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/6494e69eb154bb66a1aabd428d3be75d/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:2:1-52:12
+INJECTED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:2:1-52:12
+		INJECTED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:2:1-52:12
+		INJECTED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:9:22-76
+application
+ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:11:5-50:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/8a24f1af42ddb63ef997033dc3138fc6/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/8a24f1af42ddb63ef997033dc3138fc6/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/66a52efb848131bf2b49b3fe3a8ac295/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/66a52efb848131bf2b49b3fe3a8ac295/AndroidManifest.xml:30:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/4ce837018eb9307b8bf43960d665a718/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/4ce837018eb9307b8bf43960d665a718/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/5525889af6b57a06b1cd74a216664984/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/5525889af6b57a06b1cd74a216664984/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/d9616b9716f915958d7b523b50bc054c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/d9616b9716f915958d7b523b50bc054c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/c4f35ccbeabf7e54271b3d03191b2808/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/c4f35ccbeabf7e54271b3d03191b2808/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/f0459d7543e17f68ec09a113bdc1fb2e/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/f0459d7543e17f68ec09a113bdc1fb2e/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/65074008b666415c41092a658f7d8cd1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/65074008b666415c41092a658f7d8cd1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/f0459d7543e17f68ec09a113bdc1fb2e/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:17:9-40
+activity#com.example.gis1.DetailMasjid
+ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:18:9-59
+	android:name
+		ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:18:19-47
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:27:9-29:55
+	android:value
+		ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:29:13-52
+	android:name
+		ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:28:13-58
+activity#com.example.gis1.MapsMasjidActivity
+ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:31:9-33:66
+	android:label
+		ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:33:13-63
+	android:name
+		ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:32:13-47
+activity#com.example.gis1.HinduActivity
+ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:34:9-51
+	android:name
+		ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:34:19-48
+activity#com.example.gis1.IslamActivity
+ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:35:9-51
+	android:name
+		ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:35:19-48
+activity#com.example.gis1.Splashscreen
+ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:36:9-42:20
+	android:name
+		ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:36:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:40:27-74
+activity#com.example.gis1.MainActivity
+ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:43:9-49:20
+	android:name
+		ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml:43:19-47
+uses-sdk
+INJECTED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/755e4c9850ea4b3901c6acb3e9318015/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/755e4c9850ea4b3901c6acb3e9318015/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/8a24f1af42ddb63ef997033dc3138fc6/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/8a24f1af42ddb63ef997033dc3138fc6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/66a52efb848131bf2b49b3fe3a8ac295/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/66a52efb848131bf2b49b3fe3a8ac295/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/4ce837018eb9307b8bf43960d665a718/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/4ce837018eb9307b8bf43960d665a718/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/5525889af6b57a06b1cd74a216664984/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/5525889af6b57a06b1cd74a216664984/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/d9616b9716f915958d7b523b50bc054c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/d9616b9716f915958d7b523b50bc054c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/c4f35ccbeabf7e54271b3d03191b2808/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/c4f35ccbeabf7e54271b3d03191b2808/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/f3fb541cb3caa0350345e0714c5daeb2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/f3fb541cb3caa0350345e0714c5daeb2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/189e1224c828faa3f7f3590beb12ed62/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/189e1224c828faa3f7f3590beb12ed62/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/5ad5a33f8c770d5cdcf9663b1b086e1f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/5ad5a33f8c770d5cdcf9663b1b086e1f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/bec37610a35d368f4c069b55a524a004/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/bec37610a35d368f4c069b55a524a004/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/0aa6d914ec2d0ca86362aadb01ed5ea9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/0aa6d914ec2d0ca86362aadb01ed5ea9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/38abf8585d6157671651f7b2643f1710/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/38abf8585d6157671651f7b2643f1710/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/08c8a2478cd6b7a8c7fd8ee7c2f72ce0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/08c8a2478cd6b7a8c7fd8ee7c2f72ce0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/e069058d42178725003c19d276ee3feb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/e069058d42178725003c19d276ee3feb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/657462a69ffef2f819e3723119f2ada7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/657462a69ffef2f819e3723119f2ada7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/8aa0bd2ce7145a764f2a17a8792abde6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/8aa0bd2ce7145a764f2a17a8792abde6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/cc48a82f040d461e0ed5fefd79dff9dc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/cc48a82f040d461e0ed5fefd79dff9dc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/6e6ccc7051558696a1b3121ac20df443/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/6e6ccc7051558696a1b3121ac20df443/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/d5e4451e52ff6e5548e01eed2c7c4108/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/d5e4451e52ff6e5548e01eed2c7c4108/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/7bb2432b33cb3e17a4ff59f0035cd50f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/7bb2432b33cb3e17a4ff59f0035cd50f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/09509d14712262441066cc84a9aa38a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/09509d14712262441066cc84a9aa38a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/db00e55526699d7d435f1cfbd727852d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/db00e55526699d7d435f1cfbd727852d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/8563a9b2945f30664af0ac48082124d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/8563a9b2945f30664af0ac48082124d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/f0459d7543e17f68ec09a113bdc1fb2e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/f0459d7543e17f68ec09a113bdc1fb2e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/7e15eecf426fcf280ff5235a8322146c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/7e15eecf426fcf280ff5235a8322146c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/02b603ed265baa5a44d98be69c19ae92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/02b603ed265baa5a44d98be69c19ae92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/65074008b666415c41092a658f7d8cd1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/65074008b666415c41092a658f7d8cd1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/a583971aa1b87e21f7013c28818d04ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/a583971aa1b87e21f7013c28818d04ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/be647dc023a1adfddcdbf1c40c2423a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/be647dc023a1adfddcdbf1c40c2423a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/7fabe633027870be1347c6b71c4f792a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/7fabe633027870be1347c6b71c4f792a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/3637554b0965a023976614a713729804/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/3637554b0965a023976614a713729804/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/e43f879f637ceff4d4f1f2c153f0c3ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/e43f879f637ceff4d4f1f2c153f0c3ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/199028c3bd3086bd788d66754b66d0bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/199028c3bd3086bd788d66754b66d0bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/e392be38c32c763f00f353f5f4a2676f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/e392be38c32c763f00f353f5f4a2676f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/b144de3791fc18f052b407a155681f1d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/b144de3791fc18f052b407a155681f1d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/5b4e91f8a3c8efc65a4d8c3ef3dc24e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/5b4e91f8a3c8efc65a4d8c3ef3dc24e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/6494e69eb154bb66a1aabd428d3be75d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/6494e69eb154bb66a1aabd428d3be75d/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ririhfitri/Documents/Android/gis1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/66a52efb848131bf2b49b3fe3a8ac295/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/66a52efb848131bf2b49b3fe3a8ac295/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/66a52efb848131bf2b49b3fe3a8ac295/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/66a52efb848131bf2b49b3fe3a8ac295/AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/66a52efb848131bf2b49b3fe3a8ac295/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/66a52efb848131bf2b49b3fe3a8ac295/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/66a52efb848131bf2b49b3fe3a8ac295/AndroidManifest.xml:28:9-32
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/4ce837018eb9307b8bf43960d665a718/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/4ce837018eb9307b8bf43960d665a718/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/4ce837018eb9307b8bf43960d665a718/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/4ce837018eb9307b8bf43960d665a718/AndroidManifest.xml:9:13-64
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/5525889af6b57a06b1cd74a216664984/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/5525889af6b57a06b1cd74a216664984/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/5525889af6b57a06b1cd74a216664984/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/5525889af6b57a06b1cd74a216664984/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/c4f35ccbeabf7e54271b3d03191b2808/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/c4f35ccbeabf7e54271b3d03191b2808/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/ririhfitri/.gradle/caches/transforms-2/files-2.1/c4f35ccbeabf7e54271b3d03191b2808/AndroidManifest.xml:24:13-58

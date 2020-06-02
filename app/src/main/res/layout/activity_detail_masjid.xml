@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffff"
+    tools:context=".DetailMasjid">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/detailmasjid3"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginTop="100dp"
+            android:id="@+id/gambarmasjid"
+            android:src="@mipmap/ic_launcher"/>
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="NAMA MASJID"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:typeface="monospace"
+            android:textColor="#18727d"
+            android:id="@+id/text_1"
+            android:layout_below="@id/gambarmasjid"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/namamasjid"
+            android:layout_below="@+id/text_1"
+            android:layout_marginTop="10dp"
+            android:textAlignment="center"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="NO TELEPON"
+            android:textStyle="bold"
+            android:typeface="monospace"
+            android:textColor="#18727d"
+            android:id="@+id/text_2"
+            android:layout_below="@id/namamasjid"
+            android:layout_marginTop="10dp"
+            android:textAlignment="center"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/notelepon"
+            android:layout_below="@+id/text_2"
+            android:layout_marginTop="10dp"
+            android:textAlignment="center"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="KETERANGAN"
+            android:textStyle="bold"
+            android:typeface="monospace"
+            android:textColor="#18727d"
+            android:id="@+id/text_3"
+            android:layout_below="@id/notelepon"
+            android:layout_marginTop="10dp"
+            android:textAlignment="center"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/keterangan"
+            android:layout_below="@+id/text_3"
+            android:layout_marginTop="10dp"
+            android:textAlignment="center"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CALL"
+            android:textStyle="bold"
+            android:typeface="monospace"
+            android:background="#18727d"
+            android:textColor="#ffffff"
+            android:id="@+id/btn_call"
+            android:layout_below="@id/keterangan"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="50dp"/>
+    </RelativeLayout>
+
+</RelativeLayout>
